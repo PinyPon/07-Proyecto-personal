@@ -1,1 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T19:08:01.040Z" agent="5.0 (X11)" version="20.5.1" etag="M13PkYW6Ck9pgVXO3CtQ" type="github"><diagram id="rSacgsXcLeD-tl2512Vr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-25T20:09:06.912Z" agent="5.0 (X11)" etag="AUMY98IrWfu54UUUMNW8" version="20.5.1" type="github" pages="2">
+  <diagram id="rSacgsXcLeD-tl2512Vr" name="Página-1">
+    <mxGraphModel dx="1422" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zp2Dx0AjihEczfSLYuLA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry y="30" width="820" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="zp2Dx0AjihEczfSLYuLA-2" value="A simple primary alert!" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#B8DCFE;strokeWidth=1;fillColor=#CCE7FE;fontColor=#004583;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="84" y="120" width="660" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zp2Dx0AjihEczfSLYuLA-3" value="Info" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zp2Dx0AjihEczfSLYuLA-4" value="Info" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="430" y="250" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zp2Dx0AjihEczfSLYuLA-5" value="Info" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="170" y="390" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zp2Dx0AjihEczfSLYuLA-6" value="Info" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="430" y="390" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zp2Dx0AjihEczfSLYuLA-7" value="Info" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="430" y="529.5" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zp2Dx0AjihEczfSLYuLA-8" value="Info" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="170" y="529.5" width="230" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WIXPKeP7j90xvkgIOQOx" name="Página-2">
+    <mxGraphModel dx="1422" dy="3093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2rGw1GlUA_G7r4p7Vyzz-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry y="-2330" width="820" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGw1GlUA_G7r4p7Vyzz-3" value="Home " style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.tabTop;strokeColor=#DFDFDF;fillColor=#ffffff;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;fontColor=#4B5259;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-2330" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGw1GlUA_G7r4p7Vyzz-4" value="Profile" style="strokeColor=none;fillColor=none;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;fontColor=#0085FC;" vertex="1" parent="1">
+          <mxGeometry x="105" y="-2330" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGw1GlUA_G7r4p7Vyzz-5" value="Contact" style="strokeColor=none;fillColor=none;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;fontColor=#0085FC;" vertex="1" parent="1">
+          <mxGeometry x="165" y="-2330" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGw1GlUA_G7r4p7Vyzz-6" value="" style="shape=line;strokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-2295" width="700" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2rGw1GlUA_G7r4p7Vyzz-7" value="Raw denim you probably haven&#39;t heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terry richardson ex squid. Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui." style="strokeColor=none;fillColor=none;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-2275" width="780" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
