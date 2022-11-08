@@ -1,0 +1,26 @@
+header{
+    background-color: #B8E8FC;
+}
+#titulo{
+    text-align: center;
+}  
+main{
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-bottom: 40%;
+    background-color: #efaeff;
+}
+body{
+    background-image: url(/assets/imagenes/Fondo-3.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#container-1{
+    margin-bottom: 40px;
+    display: flex ;
+    justify-content: center;
+}
+#container-2{
+    display: flex ;
+    justify-content: center;
+}
