@@ -27,3 +27,13 @@ body{
 #buttom{
     background-color: beige;
 }
+#volver{
+    background-image: url(/assets/imagenes/boton-verde.png);
+    
+}
+#m3{
+    background-color: #CFF5E7;
+}
+#m4{
+    background-color: #7F669D;
+}
