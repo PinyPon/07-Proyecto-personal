@@ -31,6 +31,12 @@ body{
     background-image: url(/assets/imagenes/boton-verde.png);
     
 }
+#m1{
+    background-color: #BCEAD5;
+}
+#m2{
+    background-color: #9E7676;
+}
 #m3{
     background-color: #CFF5E7;
 }
